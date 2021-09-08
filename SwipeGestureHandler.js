@@ -22,7 +22,7 @@ const getDirection = ({ moveX, moveY, dx, dy }) => {
 
   if (draggedLeft || draggedRight) {
     if (draggedLeft) dragDirection += "left";
-    if (draggedRight) dragDirection += "ight";
+    if (draggedRight) dragDirection += "right";
   }
   
   if (dragDirection) return dragDirection;
