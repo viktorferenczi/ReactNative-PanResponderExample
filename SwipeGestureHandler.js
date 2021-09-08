@@ -37,7 +37,7 @@ export default class SwipeGesture extends Component {
     this._panResponder = PanResponder.create({
       onMoveShouldSetPanResponder: (evt, gestureState) => !!getDirectionAndColor(gestureState),
       onPanResponderMove: (evt, gestureState) => { 
-        console.log(getDirectionAndColor(gestureState))
+         this.props.onSwipe(getDirectionAndColor(gestureState));
       },
       onPanResponderTerminationRequest: (evt, gestureState) => true,
     });
