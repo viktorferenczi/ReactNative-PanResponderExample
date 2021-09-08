@@ -4,7 +4,7 @@ Swipe gesture handler for my projects. Feel free to use.
 
 Usage:
 
-'''
+```
 import React from 'react';
 import { View } from 'react-native';
 
@@ -22,4 +22,4 @@ function Test() {
 
 
 export default Test;
-'''
+```
