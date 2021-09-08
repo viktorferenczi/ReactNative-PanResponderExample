@@ -1,5 +1,5 @@
 # ReactNative-SwipeGestureHandler
-Swipe gesture handler for my projects. Feel free to use.
+Swipe gesture handler for my projects. It is not perfect, needs some correction. Feel free to use/edit/use it.
 
 
 Usage:
