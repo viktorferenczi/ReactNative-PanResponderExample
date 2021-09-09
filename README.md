@@ -1,5 +1,5 @@
-# ReactNative-SwipeGestureHandler
-Swipe gesture handler for my projects. It is not perfect, needs some correction. Feel free to use/edit/use it.
+# ReactNative-PanResponder example
+Swipe gesture handler for my projects(left,right,up and down). It is not perfect, needs some correction. Feel free to use/edit/use it.
 
 
 Usage:
